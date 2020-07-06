@@ -12,7 +12,7 @@
 	
 * The encryption system enables the developer to decode encrypted application data pertaining to an end-user, but this may only be accomplished in the presence of an instance of the actual encrypted file in question, which is improbable considering mitigation procedures taken by the developer to keep ALL data storage local.
 	
-* Extensive measures have been taken to ensure complete privacy of the end user of this application.
+* Extensive measures have been taken to ensure complete privacy of the end-user of this application.
 
 ## Please direct questions/ concerns: twosixfoursix@gmail.com
 ## In case of further resolution, the end-user has the option to contact GOOGLE directly.

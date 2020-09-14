@@ -14,7 +14,7 @@
 	
 * Extensive measures have been taken to ensure complete privacy of the end-user of this application.
 
-## Please direct questions/ concerns: twosixfoursix@gmail.com
+## Please direct questions/ concerns: amin.iqbal@tuta.io
 ## In case of further resolution, the end-user has the option to contact GOOGLE directly.
 
-## Effective July 06, 2020.
+## Effective September 14, 2020.
